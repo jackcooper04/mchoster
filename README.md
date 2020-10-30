@@ -24,7 +24,7 @@ data = {
 mchoster.launchServer("C:\\Users\\User\\Desktop\\Test",data);
 ```
 
-##Versions
+## Versions
 All Release Versions are supported.
 To Keep Server updated to latest version input latest into the version field.
 If you put a plus infront of a version e.g 1.16+ it will keep it to the latest of 1.16 so that would load 1.16.3.
