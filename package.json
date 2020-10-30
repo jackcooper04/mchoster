@@ -1,0 +1,24 @@
+{
+  "name": "mchoster",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackcooper04/mchoster.git"
+  },
+  "author": "JackCooper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackcooper04/mchoster/issues"
+  },
+  "homepage": "https://github.com/jackcooper04/mchoster#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
