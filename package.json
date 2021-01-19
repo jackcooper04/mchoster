@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/jackcooper04/mchoster#readme",
   "dependencies": {
-    "axios": "^0.21.0",
+    "axios": ">=0.21.1",
     "fs": "0.0.1-security",
     "request": "^2.88.2"
   }
