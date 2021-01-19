@@ -1,4 +1,4 @@
-#MCHoster
+# MCHoster
 ## Basic Package For Starting A Minecraft Server From A Node Project
 
 # Getting Started
